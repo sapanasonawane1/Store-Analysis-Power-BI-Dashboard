@@ -3,6 +3,7 @@
 An interactive Power BI dashboard that analyzes store sales performance across time, product categories, sales channels, customer gender and shipping regions.
 
 Dashboard Image:
+
 <img width="899" height="536" alt="Screenshot 2026-09-29 110207" src="https://github.com/user-attachments/assets/4482631f-501d-4720-b3be-92a61492352e" />
 
 ## 📌 Objective
@@ -26,7 +27,7 @@ Power BI Desktop, DAX, Power Query
 - *(Gender split)*
 
 ## ▶️ How to Use
-1. Download `Store_Analysis_Dashboard.pbix`
+1. Download `"C:\Users\DeLL\Downloads\Store Analysis Dashboard.pbix"`
 2. Open it in Power BI Desktop (free)
 3. Use the slicers to filter and explore
 
