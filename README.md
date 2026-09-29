@@ -27,7 +27,7 @@ Power BI Desktop, DAX, Power Query
 - *(Gender split)*
 
 ## ▶️ How to Use
-1. Download `"C:\Users\DeLL\Downloads\Store Analysis Dashboard.pbix"`
+1. Download `Store_Analysis_Dashboard.pbix`
 2. Open it in Power BI Desktop (free)
 3. Use the slicers to filter and explore
 
